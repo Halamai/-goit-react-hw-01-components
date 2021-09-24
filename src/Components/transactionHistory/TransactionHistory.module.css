@@ -1,0 +1,16 @@
+.transactionhistory {
+  background-color: rgb(78, 124, 136);
+  text-align: center;
+  align-items: center;
+  margin: 25px;
+  width: 95vh;
+}
+.history {
+  background-color: yellowgreen;
+}
+.type {
+  text-align: left;
+}
+.transaction {
+  background-color: rgb(198, 216, 165);
+}
